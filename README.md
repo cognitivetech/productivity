@@ -1,6 +1,7 @@
 # productivity
 Information related to productivity tools such as Notion
 
+* [Which Notion Pro should you follow? Featuring Khe Hy and August Bradley](https://www.reddit.com/r/NotionSo/comments/gbe9w5/which_notion_pro_should_you_follow_featuring_khe/) - Reddit
 
 ## [blog.moretimeperday.com](https://blog.moretimeperday.com/)
 
